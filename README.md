@@ -1,5 +1,4 @@
-# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9ad5130e-9397-4c4b-b2f5-b19090fe5ee9" />
-Adidas US Sales Analysis Dashboard
+# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9ad5130e-9397-4c4b-b2f5-b19090fe5ee9" />Adidas US Sales Analysis Dashboard
 
 ## 1. Project Title / Headline  
 Adidas US Sales Analysis – An interactive Excel dashboard that presents comprehensive U.S. sales performance metrics, product and channel insights, and geographic breakdowns to inform strategic decisions.
